@@ -1,2 +1,2 @@
-# CSC472
-Homework, Assignments, etc. all created or downloaded for CSC 472 at West Chester University.
+# CSC472 - Software Security
+Labs done for CSC 472 - Software Security at West Chester University.
